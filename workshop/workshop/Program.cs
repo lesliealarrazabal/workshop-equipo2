@@ -69,6 +69,8 @@ namespace workshop
             
         static void Main(string[] args) //--------------------------------------------------------------- M   A  I  N
         {
+            Console.WriteLine ("This is a console line"); //By Vero And Ginny
+
             Repository _repo = new Repository();
             BussinessLogic _b = new BussinessLogic();
 
