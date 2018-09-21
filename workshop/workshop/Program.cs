@@ -72,6 +72,8 @@ namespace workshop
             //Hello this is a big change on the functionality of the code
             //All by Melissa, Tania & Leslie :D !!
 
+            Console.WriteLine ("This is a console line"); //By Vero And Ginny
+
 
             Repository _repo = new Repository();
             BussinessLogic _b = new BussinessLogic();
