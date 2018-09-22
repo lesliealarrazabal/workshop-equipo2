@@ -69,6 +69,10 @@ namespace workshop
             
         static void Main(string[] args) //--------------------------------------------------------------- M   A  I  N
         {
+            //Hello this is a big change on the functionality of the code
+            //All by Melissa, Tania & Leslie :D !!
+
+
             Repository _repo = new Repository();
             BussinessLogic _b = new BussinessLogic();
 
